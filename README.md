@@ -9,7 +9,6 @@ To get started with this project, first clone the repository to your local machi
 
 ```bash
 npm install
-```
 
 This will install Vue.js along with other dependencies such as Ant Design Vue for UI components, Axios for HTTP requests, and various development tools configured for Vue.
 
